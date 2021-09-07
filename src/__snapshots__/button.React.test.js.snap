@@ -1,0 +1,13 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Search button rendered correctly 1`] = `
+<div
+  className="searchOptions"
+>
+  <button
+    onClick={[Function]}
+  >
+    Search
+  </button>
+</div>
+`;
